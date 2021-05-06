@@ -1,2 +1,12 @@
 datasets/
-.DS_Store
+datasets
+.datasets/
+datasets
+
+
+..DS_Store
+
+pickles/
+pickles
+.pickles/
+
