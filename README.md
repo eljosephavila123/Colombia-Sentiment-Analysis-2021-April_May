@@ -1,4 +1,6 @@
 # Sentiment Analysis- Tax Reform Colombia May-April
+![](https://img.shields.io/github/languages/code-size/eljosephavila123/Colombia-Sentiment-Analysis-2021-April_May)
+![](https://img.shields.io/github/last-commit/eljosephavila123/Colombia-Sentiment-Analysis-2021-April_May)
 
 At this time, May 6, 2021, Colombia is going through a sad moment, to be able to put a BBC news in context, taken from its website [[1]](https://www.bbc.com/mundo/noticias-america-latina-56950223)
 ___
